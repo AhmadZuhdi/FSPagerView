@@ -464,6 +464,7 @@
 				DEVELOPMENT_TEAM = HZF422TY46;
 				INFOPLIST_FILE = "$(SRCROOT)/FSPagerViewExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wenchaod.FSPagerViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -478,6 +479,7 @@
 				DEVELOPMENT_TEAM = HZF422TY46;
 				INFOPLIST_FILE = "$(SRCROOT)/FSPagerViewExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wenchaod.FSPagerViewExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
